@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Comos19
+- 👀 I’m interested in programming, airplanes, games
+- 🌱 I’m currently learning Python, Web development
+- 💞️ I’m looking to collaborate on [nothing]
+- 📫 How to reach me Discord: cosmos_oficial
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have 2 pet parrots. :)
+
+<!---
+Comos19/Comos19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
