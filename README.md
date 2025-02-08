@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Comos19
-- 👀 I’m interested in programming, airplanes, games
+# 👋 Hi, I’m @Comos19
+- 👀 I’m interested in programming, server and games
 - 🌱 I’m currently learning Python, Web development
-- 💞️ I’m looking to collaborate on [nothing]
 - 📫 How to reach me Discord: cosmos_oficial
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 2 pet parrots. :)
